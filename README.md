@@ -3,3 +3,7 @@
 
 # Overview 
 Lexi life in VR
+
+# GVR SDK Version
+1.6
+
